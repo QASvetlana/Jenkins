@@ -18,11 +18,5 @@ public class OwnerTests {
         String login = credentials.login();
         String password = credentials.password();
 
-        //System.out.println(login);
-         // System.out.println(password);
-
-
-        // String message = format("i login as %s with password %s", login, password);
-        // System.out.println(message);
     }
 }
